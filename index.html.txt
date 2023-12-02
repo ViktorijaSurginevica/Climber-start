@@ -1,2 +1,24 @@
 //5 letters//
 /*5 letters*/
+
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
+
+let catName = "Oliver";
+let catSound = "Meow!";
+
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+let fact = "is awesome!";
+const console.log(fCC, fact); // Change this line
+
+const difference = 45 - 33;
+
+
