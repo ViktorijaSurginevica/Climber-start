@@ -4,3 +4,8 @@ String.prototype.isUpperCase = function() {
 }
 else return false;
 }
+
+function numberToString(num) {
+  return String(num)
+  // Return a string of the number here!
+}
