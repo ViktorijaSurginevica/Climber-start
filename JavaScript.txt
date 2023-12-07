@@ -5,3 +5,10 @@ const myArray = [["Cat", 10], ["Sugar", 22]];
 const someAdjective = "Hello World ";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
+
+// Setup
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0];
