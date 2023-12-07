@@ -1,2 +1,7 @@
 // Only change code below this line
 const myArray = [["Cat", 10], ["Sugar", 22]];
+
+// Change code below this line
+const someAdjective = "Hello World ";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
