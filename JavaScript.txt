@@ -12,3 +12,10 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 firstLetterOfLastName = lastName[0];
+
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Only change this line;
