@@ -23,7 +23,17 @@ var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAd
 // Only change code below this line
 const myArray = ["new", 10];
 
+// Setup
+function trueOrFalse(wasThatTrue) {
+  // Only change code below this line.
 
+  if (wasThatTrue) {
+    return "Yes, that was true";
+  }
+  return "No, that was false";
+
+  // Only change code above this line.
+}
 
 var myList = [
   ["Canned Beans", 3],
