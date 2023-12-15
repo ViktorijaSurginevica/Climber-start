@@ -32,3 +32,9 @@ var myList = [
   ["Toilet Paper", 12],
   ["Sack of Rice", 1]
 ];
+
+function functionWithArgs(a,b) {
+console.log(a+b);
+}
+functionWithArgs(1,2); \= 3
+functionWithArgs(7,9); \= 16
