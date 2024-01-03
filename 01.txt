@@ -12,7 +12,7 @@ var myList = [
   ["Toilet Paper", 12],
   ["Sack of Rice", 1]
 ];
-
+fdgdf
 function myLocalScope() {
 
   // Only change code below this line
